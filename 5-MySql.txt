@@ -1,1 +1,6 @@
-Test commit to private Repo
+Practice
+Grade: 5:76
+Credits: 12 from 12
+Theory
+Grade: 5.40
+Points: 18 from 20
